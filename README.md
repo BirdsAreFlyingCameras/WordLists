@@ -7,7 +7,9 @@ A repo containing wordlists I've compiled over time
 - **CountryNames.txt** - 310 Country Names
 - **JobTitles.txt** - 5,219 Job Title Names
 - **Names.txt** - 215,184 Names (Filtered Pretty Well But Still Not Perfect)
-- **States-Provinces.txt** - 3,741 State/Province Names 
+- **States-Provinces.txt** - 3,741 State/Province Names
+- **Merriam-Webster-Common-Words.txt** - 25,772 Words labeled as common from https://www.merriam-webster.com
+- **Merriam-Webster-All-Words.txt** - 309,420 Words from https://www.merriam-webster.com
 <br>
 <br>
 Contributions are always welcome please feel free to open a pull request.
