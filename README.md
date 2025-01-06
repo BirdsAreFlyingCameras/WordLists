@@ -8,5 +8,4 @@ A repo containing wordlists I've compiled over time
 - **JobTitles.txt** - 5,219 Job Title Names
 - **Names.txt** - 215,184 Names (Filtered Pretty Well But Still Not Perfect)
 - **States-Provinces.txt** - 3,741 State/Province Names
-<br><br>
-Contributions are always welcome please feel free to open a pull request.
+<br><br>Contributions are always welcome please feel free to open a pull request.
