@@ -3,7 +3,7 @@ A repo containing wordlists I've compiled over time
 <br><br>
 - **CityNames.txt** - 12,486 City Names
 - **CommonWebsitePhrases.txt** - 20,572 Common Website Phrases
-- **CommonWords.txt** - 447,501 Common Words (Not Very Well Filtered)
+- ~~**CommonWords.txt** - 447,501 Common Words (Not Very Well Filtered)~~ Use Either Of The Merriam Webster Lists
 - **CountryNames.txt** - 310 Country Names
 - **JobTitles.txt** - 5,219 Job Title Names
 - **Names.txt** - 215,184 Names (Filtered Pretty Well But Still Not Perfect)
